@@ -69,6 +69,13 @@ Ce projet m'a permis de découvrir et de pratiquer :
 - l'organisation d'un projet C++
 - l'évolution progressive d'une application
 
+
+## Rendu visuel
+
+![Calculatrice](calculatrice.png)
+
+
+
 ## 🚀 Lancer le projet
 !!! OUVRIR LE "CalculatriceV1" DANS QT CREATOR !!!
 
@@ -76,3 +83,4 @@ Ce projet m'a permis de découvrir et de pratiquer :
 
 ```bash
 git clone https://github.com/ValentinRuelle/Calculatrice_widget.git
+
