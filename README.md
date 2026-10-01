@@ -70,8 +70,14 @@ Ce projet m'a permis de découvrir et de pratiquer :
 - l'évolution progressive d'une application
 
 ## 🚀 Lancer le projet
+!!! OUVRIR LE "CalculatriceV1" DANS QT CREATOR !!!
 
 1. Cloner le repository :
 
 ```bash
 git clone https://github.com/ValentinRuelle/Calculatrice_widget.git
+
+
+<img width="357" height="332" alt="image" src="https://github.com/user-attachments/assets/c0a4705b-4434-495b-891a-5460c23b1e19" />
+<img width="357" height="332" alt="image" src="https://github.com/user-attachments/assets/d360d107-82b5-4d58-aacf-c40e4439d49c" />
+
